@@ -1,0 +1,5 @@
+Pclass,Sex,Age,SibSp,Parch,Cabin,Embarked
+2,male,42,1,2,U,S
+2,female,42,1,2,U,S
+2,male,18,1,2,U,S
+2,male,9,1,2,U,S
